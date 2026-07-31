@@ -49,5 +49,6 @@
         "Onym": "Blaspsoft\\Onym\\Facades\\Onym"
       }
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
